@@ -36,5 +36,5 @@ public class T2_staples_Logger extends ReusableAnnotations {
         logger.log(LogStatus.INFO,"Iphone result is " + result);
     }//end of test 2
 
-    //hello
+
 }
