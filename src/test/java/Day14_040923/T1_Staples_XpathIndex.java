@@ -25,5 +25,5 @@ public class T1_Staples_XpathIndex extends ReusableAnnotations {
         Thread.sleep(2000);
 
     }//end of test 1
-    //145454555
+    //1454
 }
